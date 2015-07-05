@@ -1,0 +1,29 @@
+.column {
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    /*background-color: #f1f1f1;*/
+    height: 100vh;
+    font-size: 16px;
+}
+
+#pad {
+    font-family: monospace;
+    border: none;
+    overflow: auto;
+    outline: none;
+    /*line-height: 20px;*/
+}
+
+#markdown {
+    font-family: 'Raleway', sans-serif;
+    border: none;
+    border-left: 1px solid black;
+    box-shadow: none;
+    overflow: auto;
+    outline: none;
+}
+
+#markdown p {
+    margin: 0;
+}

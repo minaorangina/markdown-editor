@@ -1,0 +1,23 @@
+{
+  "name": "realtime-markdown-editor",
+  "version": "1.0.0",
+  "description": "Realtime markdown editor",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minaorangina/markdown-editor.git"
+  },
+  "keywords": [
+    "markdown",
+    "realtime"
+  ],
+  "author": "minaorangina",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.3.2",
+    "express": "^4.13.0"
+  }
+}
